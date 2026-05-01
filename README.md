@@ -1,0 +1,25 @@
+# Steam Library Tracker
+
+## Aspiration
+For this project I wanted to make something I would actually use. I picked a Steam library tracker because I play video games and use Steam a lot. My goal was to make a simple program that keeps track of my games, how long I’ve played them, and how much I like them.
+
+## Why this is interesting
+This project is interesting to me because I already play games like Elden Ring, Call of Duty Black Ops 3, Rainbow Six Siege, Terraria, and Arc Raiders. Sometimes I forget what games I have or how much I’ve played them, so this program helps me keep everything in one place.
+
+## What I completed
+For this project I made a console program that lets me add games, see all my games, search for a game, and save/load my data. I also added hours played and ratings for each game. Everything is stored in lists and can be saved to a file so I don’t lose it.
+
+## What I learned
+I learned how to use lists to store data and how to use multiple lists together. I also learned how to save and load data from a file. I got better at using loops, methods, and user input. This project helped me understand how to build a full program instead of just small pieces.
+
+## How the program works
+The program shows a menu and lets the user pick what to do. You can add a game, view all games, search for one, or save/load your data. It keeps running until you choose to exit.
+
+## Concepts used
+- Lists (and parallel lists)
+- if/else and switch
+- while loop and for loop
+- methods
+- reading and writing files
+- user input
+- string formatting
