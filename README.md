@@ -29,3 +29,46 @@ The program shows a menu and lets the user pick what to do. You can add a game, 
 - user input (Console.ReadLine)
 - string formatting (displaying output nicely)
 - const (file name)
+
+## **THE DIFFERENT TYPES OF DIAGRAMS I USED**
+
+## Pseudocode
+start program
+
+loop forever
+  show menu
+  get user choice
+
+  if 1 add game
+  if 2 view games
+  if 3 save
+  if 4 load
+  if 5 search
+  if 6 exit
+
+end loop
+
+## Flowchart
+Start
+↓
+Show Menu
+↓
+User picks option
+↓
+Do action (add/view/save/load/search)
+↓
+Repeat until exit
+
+## Use Case
+User:
+- Add game
+- View games
+- Search game
+- Save data
+- Load data
+
+## Tests
+I used Debug.Assert to test simple conditions in my program and make sure it works correctly.
+
+## Comments
+I added comments in my code to explain what each method does and to make it easier to understand.
