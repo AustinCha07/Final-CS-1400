@@ -1,5 +1,12 @@
 # Steam Library or any game Tracker
 
+## Project Description
+This project is a simple Steam library tracker that I made using C#. The purpose of the program is to help keep track of video games that I own, how many hours I have played them, and how much I like them. I chose this idea because I play a lot of games and sometimes forget what I have or how much time I have spent on each game.
+  The program runs in the console and uses a menu system so the user can choose what they want to do. The user can add a game by typing in the name, hours played, and a rating from 1 to 10. The program stores this information using lists, so each game is connected with its hours and rating. I used parallel lists to keep everything organized.
+  The user can also view all of the games they have added. This shows the name of the game, how many hours have been played, and the rating. There is also a search feature where the user can type in the name of a game and it will display the information for that specific game.
+  Another important part of the program is saving and loading data. The user can save their game list to a file so that it is not lost when the program closes. Then they can load the data later and continue where they left off. This is done using file reading and writing in C#.
+  Overall, this project helped me practice important programming concepts like lists, loops, methods, and file handling. It also helped me understand how to build a full program that actually does something useful instead of just small assignments.
+
 ## Aspiration
 For this project I wanted to make something I would actually use. I picked a Steam library tracker because I play video games and use Steam a lot. My goal was to make a simple program that keeps track of my games, how long I’ve played them, and how much I like them.
 
