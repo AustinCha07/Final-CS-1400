@@ -1,4 +1,4 @@
-# Steam Library Tracker
+# Steam Library or any game Tracker
 
 ## Aspiration
 For this project I wanted to make something I would actually use. I picked a Steam library tracker because I play video games and use Steam a lot. My goal was to make a simple program that keeps track of my games, how long I’ve played them, and how much I like them.
@@ -16,10 +16,16 @@ I learned how to use lists to store data and how to use multiple lists together.
 The program shows a menu and lets the user pick what to do. You can add a game, view all games, search for one, or save/load your data. It keeps running until you choose to exit.
 
 ## Concepts used
-- Lists (and parallel lists)
-- if/else and switch
-- while loop and for loop
-- methods
-- reading and writing files
-- user input
-- string formatting
+- Lists (to store game data)
+- Parallel lists (names, hours, ratings)
+- if/else (menu and search logic)
+- switch (menu options)
+- while loop (runs the program)
+- for loop (go through lists)
+- foreach (extra way to loop through data)
+- methods (AddGame, ViewGames, Save, Load, Search)
+- reading from a file (loading saved data)
+- writing to a file (saving data)
+- user input (Console.ReadLine)
+- string formatting (displaying output nicely)
+- const (file name)
